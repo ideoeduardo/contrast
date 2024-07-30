@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Propuesta de logo de 60 aniversario Rori"
 mathjax: true
 layout: post
 categories: media

@@ -5,4 +5,4 @@ layout: post
 categories: media
 ---
 
-![logo](/assets/aniversario.png))
+![logo](https://ideoeduardo.github.io/contrast/assets/aniversario.png)
